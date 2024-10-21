@@ -1,5 +1,16 @@
 # 💫 About Me:
-💻 I'm currently working on: Improving my web development skills through personal projects and coursework.<br><br>🤝 I'm looking to collaborate on: Exciting web development projects or tech challenges where I can apply and grow my skills.<br><br>👐 I'm looking for help with: Finding an internship or apprenticeship in web development to deepen my experience.<br><br>🌱 I'm currently learning: Advanced web technologies like JavaScript frameworks, PHP, and database management.<br><br>💬 Ask me about: Web development, technology trends, or how to create responsive and dynamic websites.<br><br>⚡ Fun fact: I'm passionate about creating innovative digital experiences and constantly improving my coding skills!
+💻 I'm currently working on: Improving my web development skills through personal projects and coursework, particularly focusing on **Next.js** and **React**.  
+  
+🤝 I'm looking to collaborate on: Exciting web development projects or tech challenges where I can apply and grow my skills, especially using **Next.js** and **React**.  
+  
+👐 I'm looking for help with: Finding an internship or apprenticeship in web development to deepen my experience and specialize further in **front-end frameworks**.  
+  
+🌱 I'm currently learning: Advanced web technologies like **Next.js**, **React**, **JavaScript frameworks**, **PHP**, and database management.  
+  
+💬 Ask me about: **Web development**, **React**, **Next.js**, and how to create responsive and dynamic websites.  
+  
+⚡ Fun fact: I'm passionate about creating innovative digital experiences using cutting-edge technologies like **React** and **Next.js**, and constantly improving my coding skills!
+
 
 
 # 💻 Tech Stack:
